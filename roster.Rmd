@@ -195,4 +195,8 @@ library(icon)
   - `r fa("user")` Fourth Year, Geography (GIS)
   - `r fa("university")` Water Supply and Demand
   - `r fa("map-marker")` 34.42, -119.69
-  
+ #### `r fa("train", color = "grey")` **Tiago Schwartz** [repo]( https://tiagoschwartz.github.io/) --- [webpage]( https://tiagoschwartz.github.io/)
+
+  - `r fa("user")` Third Year Geography Major
+  - `r fa("university")` Urban Planning
+  - `r fa("map-marker")` 37.7749, 122.4194
